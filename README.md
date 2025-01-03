@@ -1,6 +1,10 @@
 ### Hi! I'm Halyna 👋
 Junior Front-End Developer
 
+## 💻 My Projects
+- [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
+- [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
+
 ## 📖 Langues and Frameworks
 - HTML
 - CSS
@@ -13,10 +17,6 @@ Junior Front-End Developer
 - Github
 - Linux
 - Docker
-
-## 💻 My Projects
-- [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
-- [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
 
 <!--
 **halyna-stehnii/halyna-stehnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
