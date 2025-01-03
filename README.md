@@ -1,4 +1,4 @@
-### Hi! I'm Halyna 👋
+## Hi! I'm Halyna 👋
 Junior Front-End Developer
 
 ## ✨ My Projects
