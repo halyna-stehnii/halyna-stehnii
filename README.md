@@ -5,7 +5,7 @@ Junior Front-End Developer
 - [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
 - [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
 
-## 📖 Langues and Frameworks
+## 📖 Languages and Frameworks
 - HTML
 - CSS
 - Javascript
