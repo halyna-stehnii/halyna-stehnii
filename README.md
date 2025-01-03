@@ -1,19 +1,19 @@
 ### Hi! I'm Halyna 👋
 Junior Front-End Developer
----
+
 ## 📖 Langues and Frameworks
 - HTML
 - CSS
 - Javascript
 - React.js
----
+
 ## 🔧 Tools
 - Figma
 - Git
 - Github
 - Linux
 - Docker
----
+
 ## 💻 My Projects
 - [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
 - [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
