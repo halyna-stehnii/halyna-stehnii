@@ -1,11 +1,11 @@
 ## Hi! I'm Halyna 👋
 Junior Front-End Developer
 
-## ✨ My Projects
+### ✨ My Projects
 - [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
 - [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
 
-## 💻 Languages, Frameworks and Tools
+### 💻 Languages, Frameworks and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
