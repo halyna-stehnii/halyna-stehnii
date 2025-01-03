@@ -1,7 +1,7 @@
 ### Hi! I'm Halyna 👋
 Junior Front-End Developer
 
-## 💻 My Projects
+## ✨ My Projects
 - [Shelter](https://rolling-scopes-school.github.io/halyna-stehnii-JSFE2023Q1/shelter/index.html)
 - [Travel](https://rolling-scopes-school.github.io/halyna-stehnii-JSFEPRESCHOOL2022Q2/travel/)
 
@@ -11,7 +11,7 @@ Junior Front-End Developer
 - Javascript
 - React.js
 
-## 🔧 Tools
+## 💻 Tools
 - Figma
 - Git
 - Github
